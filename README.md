@@ -26,8 +26,8 @@ To build a deep, foundational understanding of full-stack development and transl
 🟢 2. Variables
 - [x] [temperature.py](./02-Variables/temperature.py)
 - [x] [bmi.py](./02-Variables/bmi.py)
-- [x] [quadratic.py](./02-Variables/quadratic.py)
-- [x] [currency.py](./02-Variables/currency.py)
+- [x] [pythagoras_theorem.py](./02-Variables/pythagoras_theorem.py)
+- [x] [currency.py](./02-Variables/currency.py) 
 
 🟢 3. Control Flow
 - [x] [coin_flip.py](./03-Control-Flow/coin_flip.py)
